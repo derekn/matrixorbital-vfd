@@ -1,0 +1,8 @@
+*.egg-info
+*.py[oc]
+*~
+.DS_Store
+/build
+/dist
+__pycache__
+Thumbs.db
